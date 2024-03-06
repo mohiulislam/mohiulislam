@@ -19,7 +19,7 @@
 
 ---
 
-## Summary
+## Summary of mine
 
 I am confident to work with a team at the front-end(InshAllah) .Passionate and self-taught front-end web developer. Strong team player and adept at collaborative work.Efficient and effective in tasks through smart work strategies. Enthusiastic learner, continuously exploring new technologies. Adaptable and willing to learn any new technologies required to meet project requirements. Notable: Prioritizing ethical considerations, I ensure my work aligns with the principles of halal. I will never work for gambling ,betting, alcohol, usury (Riba or interest),MLM
 
