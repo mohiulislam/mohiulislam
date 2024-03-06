@@ -14,6 +14,7 @@
 - Redux toolkit
 - RTK query
 - Git
+- Tailwind css
 - UI libraries
 - Object-Oriented Programming (OOP)
 
