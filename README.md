@@ -38,6 +38,7 @@ I built a chat application with React and Nest.js and socket.io. User can create
 
 Notes app:
 Built a notes taking app with NestJs, PassportJs, JWT and api documented with swagger . Here are more  details.
+
 ---
 
 ## Education
