@@ -22,7 +22,8 @@
 
 ## Summary of mine
 
-As a JavaScript-focused Full Stack Web Developer, I excel in both front-end and back-end development, offering a holistic approach to application creation. My expertise is grounded in crafting efficient, scalable solutions utilizing advanced techniques and methodologies. I am highly skilled in collaborative settings, contributing significantly through teamwork. My problem-solving abilities are enhanced by strategic planning and smart work strategies, facilitating timely delivery of high-quality outcomes.
+As a JavaScript-focused Full Stack Web Developer:
+I excel in both front-end and back-end development, offering a holistic approach to application creation. My expertise is grounded in crafting efficient, scalable solutions utilizing advanced techniques and methodologies. I am highly skilled in collaborative settings, contributing significantly through teamwork. My problem-solving abilities are enhanced by strategic planning and smart work strategies, facilitating timely delivery of high-quality outcomes.
 
 My professional ethos emphasizes ethical standards, particularly adhering to halal principles. This commitment extends to abstaining from projects involving gambling, betting, alcohol, usury (Riba or interest), and MLM schemes.
 
