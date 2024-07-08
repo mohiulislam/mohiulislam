@@ -9,14 +9,9 @@
 ---
 
 ## Skills
-- Javascript
-- React
-- Redux toolkit
-- RTK query
-- Git
-- Tailwind css
-- UI libraries
-- Object-Oriented Programming (OOP)
+Frontend: JavaScript, React , Next.js, Vue, Angular, Zustand, TypeScript, React Query, Redux Toolkit, Tailwind, Bootstrap, UI libraries, React Router DOM,Html, CSS, Tailwind, Sass
+
+Backend: Express.js, Nest.js, RESTful API Design, MongoDB, SQL Databases, Docker.
 
 ---
 
