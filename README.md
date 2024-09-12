@@ -1,17 +1,53 @@
+# Mohiul Islam  
+**Full Stack Web Developer**  
 
+**Address:** Jhikargacha, Jessore, Khulna, Bangladesh.  
+**Phone:** 01611969800  
+**Email:** mohiulislam900@gmail.com  
 
-| Mohiul Islam Full stack web developer | Address Jhikargacha Jessore, Khulna, Bangladesh. 01611969800 [mohiulislam900@gmail.com](mailto:mohiulislam900@gmail.com) [![][image1]](https://www.linkedin.com/in/mohiul-islam-04b9a71bb) [![][image2]](https://github.com/mohiulislam) |
-| :---- | :---- |
-| **ㅡ** **Professional summary** | As a Full Stack Web Developer with a strong focus on JavaScript, I bring expertise in both front-end and back-end development, employing advanced techniques to build efficient and scalable solutions. With a deep understanding of frameworks like React, Next.js, and Nest.js, I excel in creating dynamic, high-performance applications. Recently, I have also expanded my skill set to include PHP and Laravel, allowing for versatility in project development. My strategic planning and problem-solving skills drive the timely delivery of high-quality solutions in collaborative environments.**Ethical Standards:** I adhere to high ethical standards, ensuring all projects align with halal principles and avoiding involvement in activities related to gambling, betting, alcohol, usury, and MLM schemes.  |
-| **ㅡ Skills** | ![][image3]  **Languages:** JavaScript, TypeScript, PHP, C, Java, OOP knowledge.  **Frontend:** React, Next.js, Vue, Angular, Zustand, React Query, Redux Toolkit, Tailwind, Bootstrap, UI libraries, React Router DOM, HTML, CSS, Sass.  **Backend:** Express.js, Nest.js, PHP (Laravel), RESTful API Design, MongoDB, SQL Databases.  **Tools:** Git, GitHub, Docker, Postman, Swagger. |
-| **ㅡ Experience** | ![][image4] **OTA air ticket selling platform web app/ Front-end developer:** Worked as front-end web developer and integral remote team member at a OTA air ticket selling platform web app, specializing in the implementation of [**user panel**](https://mastermindbd.com) and [**admin panel**](https://admin.mastermindbd.com) using React.Proficiently connecting back-end APIs and translating project requirements into innovative features. It is successfully operating in three countries . For more [**details**](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_jobseeker-frontenddeveloper-reactjs-activity-7214185545264947200-d_T1?utm_source=share&utm_medium=member_desktop). **Chat app:** I built a chat application with React and Nest.js and socket.io. User can create an account and chat with his buddy. User can chat with his buddy by adding him by email. Here are the [**details**](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_opentowork-opentowork-realtimechat-activity-7212060885836578816-dDbZ?utm_source=share&utm_medium=member_desktop). **Notes app:** Built a notes taking app with NestJs, PassportJs, JWT and api documented with swagger. User can CRUD his own notes.Here are more  [**details**](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_opentowork-nestjs-mongodb-activity-7212789256430178304-bb4q?utm_source=share&utm_medium=member_desktop).  |
+---
 
-***NB: I am extremely excited about the opportunity to work on challenging projects and am eager to contribute my skills to your team. I am actively seeking a job where I can grow, learn, and make a meaningful impact.***
+## Professional Summary
 
-[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAYUlEQVR4XmNgAAKmks3/qYlBZlLdUBimn8EwgC5OKkYxGB2gKyYF08dgEKaGoSCMYTC1MMGgYCzehCGGDtANJctgXIBmBjMA1VFkMCH1owZjyI0aTGeDqYlpZzAt6j2QmQAuPgWb74Mn6AAAAABJRU5ErkJggg==>
+As a Full Stack Web Developer with a strong focus on JavaScript, I bring expertise in both front-end and back-end development, employing advanced techniques to build efficient and scalable solutions. With a deep understanding of frameworks like React, Next.js, and Nest.js, I excel in creating dynamic, high-performance applications. Recently, I have also expanded my skill set to include PHP and Laravel, allowing for versatility in project development. My strategic planning and problem-solving skills drive the timely delivery of high-quality solutions in collaborative environments.
 
-[image2]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAYAAAArdgcFAAAAm0lEQVR4XrWNQQ6DMAwE+QT0vVz7aSohQMlsNjGYjuRD7N3JNA34zMvmhtkwFPWGXQuLd4auCoafDJ07DGWG7kpu9t/jvQ5ytXz4cwDrsIcbNB1cviXfPbJIIC5ZJBCXLBKISxYJxMXF0w/o+L/cHaKfsCNdLm2wgBmODbfehLJR/iqU7/JeQiG7TRh2BWZcToiUIpkuvWLvdvIDOYwfg0lyh3AAAAAASUVORK5CYII=>
+**Ethical Standards:** I adhere to high ethical standards, ensuring all projects align with halal principles and avoiding involvement in activities related to gambling, betting, alcohol, usury, and MLM schemes.
 
-[image3]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAADCAYAAADRPAuQAAAAJElEQVR4Xu3IoQEAAAgDoP3/tB6wroVAIUkGAB5VAMClCgA4syuD4VfZZ5HoAAAAAElFTkSuQmCC>
+---
 
-[image4]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAADCAYAAADRPAuQAAAAJElEQVR4Xu3IoQEAAAgDoP3/tB6wroVAIUkGAB5VAMClCgA4syuD4VfZZ5HoAAAAAElFTkSuQmCC>
+## Skills
+
+- **Languages:** JavaScript, TypeScript, PHP, C, Java, OOP knowledge.  
+- **Frontend:** React, Next.js, Vue, Angular, Zustand, React Query, Redux Toolkit, Tailwind, Bootstrap, UI libraries, React Router DOM, HTML, CSS, Sass.  
+- **Backend:** Express.js, Nest.js, PHP (Laravel), RESTful API Design, MongoDB, SQL Databases.  
+- **Tools:** Git, GitHub, Docker, Postman, Swagger.  
+
+---
+
+## Experience
+
+**OTA Air Ticket Selling Platform Web App / Front-end Developer:**  
+Worked as a front-end web developer and integral remote team member at an OTA air ticket selling platform web app, specializing in the implementation of user and admin panels using React. Proficiently connected back-end APIs and translated project requirements into innovative features. The platform is successfully operating in three countries.  
+
+**Chat App:**  
+I built a chat application with React, Nest.js, and Socket.io. Users can create an account and chat with their buddy by adding them via email.  
+
+**Notes App:**  
+Built a note-taking app with NestJs, PassportJs, JWT, and documented the API with Swagger. Users can perform CRUD operations on their own notes.  
+
+---
+
+## Contact
+
+- [Email](mailto:mohiulislam900@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/mohiul-islam-04b9a71bb)  
+- [GitHub](https://github.com/mohiulislam)  
+- [Website](https://mastermindbd.com)  
+- [Admin Panel](https://admin.mastermindbd.com)  
+- [LinkedIn Post 1](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_jobseeker-frontenddeveloper-reactjs-activity-7214185545264947200-d_T1?utm_source=share&utm_medium=member_desktop)  
+- [LinkedIn Post 2](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_opentowork-opentowork-realtimechat-activity-7212060885836578816-dDbZ?utm_source=share&utm_medium=member_desktop)  
+- [LinkedIn Post 3](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_opentowork-nestjs-mongodb-activity-7212789256430178304-bb4q?utm_source=share&utm_medium=member_desktop)  
+
+---
+
+**NB:** I am extremely excited about the opportunity to work on challenging projects and am eager to contribute my skills to your team. I am actively seeking a job where I can grow, learn, and make a meaningful impact.
