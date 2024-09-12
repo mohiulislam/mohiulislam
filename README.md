@@ -37,17 +37,4 @@ Built a note-taking app with NestJs, PassportJs, JWT, and documented the API wit
 
 ---
 
-## Contact
-
-- [Email](mailto:mohiulislam900@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/mohiul-islam-04b9a71bb)  
-- [GitHub](https://github.com/mohiulislam)  
-- [Website](https://mastermindbd.com)  
-- [Admin Panel](https://admin.mastermindbd.com)  
-- [LinkedIn Post 1](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_jobseeker-frontenddeveloper-reactjs-activity-7214185545264947200-d_T1?utm_source=share&utm_medium=member_desktop)  
-- [LinkedIn Post 2](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_opentowork-opentowork-realtimechat-activity-7212060885836578816-dDbZ?utm_source=share&utm_medium=member_desktop)  
-- [LinkedIn Post 3](https://www.linkedin.com/posts/mohiul-islam-04b9a71bb_opentowork-nestjs-mongodb-activity-7212789256430178304-bb4q?utm_source=share&utm_medium=member_desktop)  
-
----
-
 **NB:** I am extremely excited about the opportunity to work on challenging projects and am eager to contribute my skills to your team. I am actively seeking a job where I can grow, learn, and make a meaningful impact.
