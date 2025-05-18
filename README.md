@@ -1,40 +1,50 @@
-# Mohiul Islam
-**Full Stack Web Developer**  
-**Address:** Jhikargacha, Jessore, Khulna, Bangladesh  
-**Phone:** 01611969800  
-**Email:** mohiulislam900@gmail.com
+Mohiul Islam's Portfolio
+About Me
+I'm a Full Stack Web Developer with expertise in JavaScript and PHP, specializing in frameworks like Laravel, React, Next.js, Nest.js, and Electron.js. I focus on building efficient, scalable web and desktop applications while adhering to high ethical standards, ensuring all projects align with halal principles.
+Skills
 
-## Professional Summary
-As a Full Stack Web Developer with a strong focus on JavaScript and PHP, including Laravel, I bring expertise in both front-end and back-end development, employing advanced techniques to build efficient and scalable solutions. With a deep understanding of frameworks like React, Next.js, and Nest.js, I excel in creating dynamic, high-performance applications. My strategic planning and problem-solving skills drive the timely delivery of high-quality solutions in collaborative environments. Additionally, I am a quick learner, constantly adapting to new technologies and methodologies.
+Programming Languages: PHP, JavaScript, TypeScript (OOP Knowledge)
+Backend Frameworks & Technologies: Laravel, Express.js, Nest.js, RESTful API Design, MongoDB, SQL Databases, Blade, Livewire, Payment Gateway Integration
+Frontend Frameworks & Libraries: React, Next.js, React Router DOM, Livewire, HTML, CSS, Sass, SCSS
+Desktop & Cross-Platform Frameworks: Electron.js
+State Management & Data Fetching: Zustand, Recoil, Context API, Redux Toolkit, React Query
+UI Components & Styling: Tailwind, Bootstrap, ShadCDN, MUI, NextUI, Ant Design, Rechart
+Form Handling & Validation: React Hook Form, Formik, Yup, ZOD, Joy
+Development Tools & Platforms: Git, GitHub, Docker, Postman, Swagger, Webpack, Vite, Notion
 
-**Ethical Standards:** I adhere to high ethical standards, ensuring all projects align with halal principles and avoiding involvement in activities related to gambling, betting, alcohol, usury, and MLM schemes.
+Projects
+Exam Taker App
 
-## Skills
-- **Languages:** PHP, JavaScript, TypeScript, OOP knowledge
-- **Frontend:** React, Next.js, Vue, Angular, Zustand, Recoil, React Query, Context API, Redux Toolkit, Tailwind, Bootstrap, ShadCDN, MUI, Ant design (and most of the popular UI libraries), React Router DOM, Yup, Joy, ZOD, React hook form, Formik, Blade, Livewire, HTML, CSS, Sass, SCSS
-- **Backend:** Express.js, Nest.js, PHP (Laravel), RESTful API Design, MongoDB, SQL Databases
-- **Tools:** Git, GitHub, Docker, Postman, Webpack, Vite, Swagger
+Duration: 6 months
+Tech Stack: Laravel, React, MySQL
+Description: Developed an exam management platform with features like admin login, question bank management, and dynamic question creation (MCQ, creative, and normal types). Supports paid model tests, student registration, exam participation, and result viewing with merit rankings. Implemented secure APIs for efficient exam and admin functionalities.
+Panels: Student Panel, Admin Panel
 
-## Experience
+Dolil Making Desktop App
 
-### Exam Taker App
-**Tech Stack:** Laravel, React, MySQL  
-I developed an exam management platform using Laravel and React, featuring admin login, question bank management, and dynamic question creation (MCQ, creative, and normal types). The app supports paid model tests with package creation and transaction-based student access. Students can register, participate in exams, and view results with merit rankings. I implemented secure APIs for exam management and admin functionalities, ensuring efficient oversight of students and exams.
+Status: Recent
+Tech Stack: Electron.js, React, MUI, React Hook Form, SQLite
+Description: Built a desktop application for sub-registry offices to streamline Dolil (deed) creation. Features a dynamic form system using React Hook Form and MUI, generating well-formatted PDF documents. Includes payment API integration for processing and verifying payments, enhancing workflow efficiency.
+Online Version: dw.dolil.com (for review, not developed by me)
 
-### OTA Air Ticket Selling Platform Web App
-**Role:** Front-end Developer  
-**Tech Stack:** React, Nest.js  
-Worked as front-end web developer and integral remote team member at a OTA air ticket selling platform web app, specializing in the implementation of user panel and admin panel using React. Proficiently connecting back-end APIs and translating project requirements into innovative features. It is successfully operating in three countries.
+OTA Air Ticket Selling Platform
 
-### Mosque Management System
-**Tech Stack:** Laravel, Filament, MySQL  
-I developed a comprehensive mosque management system utilizing Laravel and Filament for the admin panel, enabling easy management of members, staff, donations, and events. The system features role-based access control for efficient user management. Key functionalities include tracking Jummah and crop donations, managing Eftar arrangements, overseeing construction donations, and recording expenses. Additionally, the system includes detailed reports and documentation management for better transparency and organization.
+Role: Front-end Developer
+Duration: 1 year
+Tech Stack: React
+Description: Worked as a front-end developer in a remote team, implementing user and admin panels using React. Connected back-end APIs and translated requirements into innovative features. The platform operates successfully in three countries.
 
-### Chat App
-**Tech Stack:** React, Nest.js, Socket.io  
-I built a chat application with React and Nest.js and socket.io. User can create an account and chat with his buddy. User can chat with his buddy by adding him by email.
+Chat App
 
-### Notes App
-Built a notes taking app with NestJs, PassportJs, JWT and API documented with Swagger. User can CRUD his own notes.
+Tech Stack: React, Nest.js, Socket.io
+Description: Developed a chat application where users can create accounts, add buddies by email, and chat in real-time using Socket.io for seamless communication.
 
-**NB:** I am extremely excited about the opportunity to work on challenging projects and am eager to contribute my skills to your team. I am actively seeking a job where I can grow, learn, and make a meaningful impact.
+Contact
+
+Email: mohiulislam900@gmail.com
+Phone: +8801611969800
+Address: Jhikargacha, Jessore, Khulna, Bangladesh
+LinkedIn: Mohiul Islam
+
+Ethical Standards
+I adhere to high ethical standards, ensuring all projects align with halal principles and avoiding involvement in activities related to gambling, betting, alcohol, usury, and MLM schemes.
