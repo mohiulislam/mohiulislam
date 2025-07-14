@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://mohiulislam.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="mailto:mohiulislam900@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -29,16 +29,46 @@ I’m **Md. Mohiul Islam**, a passionate and goal-oriented Full Stack Developer 
 
 ### 🛠️ Technical Skills
 
-| Category                | Technologies |
-|-------------------------|--------------|
-| **Languages**           | PHP, JavaScript, TypeScript, SQL |
-| **Backend**             | Laravel, Nest.js, Express.js, REST API, MongoDB, MySQL |
-| **Frontend**            | React, Next.js, Livewire, HTML5, CSS3, Tailwind CSS, MUI, ShadCN, Ant Design |
-| **Desktop App**         | Electron.js |
-| **Form Handling**       | React Hook Form, Formik, Yup, Zod |
-| **State Management**    | Zustand, Recoil, Redux Toolkit, Context API, React Query |
-| **Tools & DevOps**      | Git, GitHub, Docker, Postman, Swagger, Vite, Notion |
-| **Payment Integration** | bKash (Manual API integration) |
+<p align="center">
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>PHP, JavaScript, TypeScript, SQL</td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>Laravel, Nest.js, Express.js, REST API, MongoDB, MySQL</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>React, Next.js, Livewire, HTML5, CSS3, Tailwind CSS, MUI, ShadCN, Ant Design</td>
+    </tr>
+    <tr>
+      <td><strong>Desktop App</strong></td>
+      <td>Electron.js</td>
+    </tr>
+    <tr>
+      <td><strong>Form Handling</strong></td>
+      <td>React Hook Form, Formik, Yup, Zod</td>
+    </tr>
+    <tr>
+      <td><strong>State Management</strong></td>
+      <td>Zustand, Recoil, Redux Toolkit, Context API, React Query</td>
+    </tr>
+    <tr>
+      <td><strong>Tools & DevOps</strong></td>
+      <td>Git, GitHub, Docker, Postman, Swagger, Vite, Notion</td>
+    </tr>
+    <tr>
+      <td><strong>Payment Integration</strong></td>
+      <td>bKash (Manual API integration)</td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -54,7 +84,7 @@ I’m **Md. Mohiul Islam**, a passionate and goal-oriented Full Stack Developer 
 
 ### 🧕 Work Philosophy
 
-> I adhere to **halal principles** in freelancing & employment:  
+> I follow **halal principles** in freelancing & employment:  
 ❌ No involvement in gambling, alcohol, usury, MLM, or betting-related projects.
 
 ---
