@@ -56,7 +56,7 @@ Project Name
 
 Description
 
-Live/Demo
+Links
 
 Exam Management Platform
 
