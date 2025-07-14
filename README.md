@@ -95,9 +95,3 @@ I’m **Md. Mohiul Islam**, a passionate and goal-oriented Full Stack Developer 
 - 🌐 Website: [mohiulislam.netlify.app](https://mohiulislam.netlify.app)  
 - 📱 WhatsApp: [+88 01611-969800](https://wa.me/8801611969800)  
 - 💼 LinkedIn: [linkedin.com/in/mohiul-islam-dev](https://www.linkedin.com/in/mohiul-islam-dev/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohiulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mohiulislam" />
-</p>
