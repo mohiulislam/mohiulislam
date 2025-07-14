@@ -2,10 +2,18 @@
 <h3 align="center">🚀 Full-Stack Web Developer | MERN & Laravel Specialist</h3>
 
 <p align="center">
-  <a href="https://mohiulislam.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:mohiulislam900@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohiul-islam-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/8801611969800" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://mohiulislam.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="mailto:mohiulislam900@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohiul-islam-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/8801611969800" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -19,31 +27,18 @@ I’m **Md. Mohiul Islam**, a passionate and goal-oriented Full Stack Developer 
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-**Languages:**  
-`PHP`, `JavaScript`, `TypeScript`, `SQL`
-
-**Back-End:**  
-`Laravel`, `Nest.js`, `Express.js`, `REST API`, `MongoDB`, `MySQL`
-
-**Front-End:**  
-`React`, `Next.js`, `Livewire`, `HTML5`, `CSS3`, `Tailwind`, `MUI`, `ShadCN`, `Ant Design`
-
-**Desktop:**  
-`Electron.js`
-
-**Form Handling:**  
-`React Hook Form`, `Formik`, `Yup`, `Zod`
-
-**State Management:**  
-`Zustand`, `Recoil`, `Redux Toolkit`, `Context API`, `React Query`
-
-**Tools & DevOps:**  
-`Git`, `GitHub`, `Docker`, `Postman`, `Swagger`, `Vite`, `Notion`
-
-**Payment Integration:**  
-`bKash` (Manual API integration)
+| Category                | Technologies |
+|-------------------------|--------------|
+| **Languages**           | PHP, JavaScript, TypeScript, SQL |
+| **Backend**             | Laravel, Nest.js, Express.js, REST API, MongoDB, MySQL |
+| **Frontend**            | React, Next.js, Livewire, HTML5, CSS3, Tailwind CSS, MUI, ShadCN, Ant Design |
+| **Desktop App**         | Electron.js |
+| **Form Handling**       | React Hook Form, Formik, Yup, Zod |
+| **State Management**    | Zustand, Recoil, Redux Toolkit, Context API, React Query |
+| **Tools & DevOps**      | Git, GitHub, Docker, Postman, Swagger, Vite, Notion |
+| **Payment Integration** | bKash (Manual API integration) |
 
 ---
 
