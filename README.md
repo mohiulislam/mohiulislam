@@ -1,55 +1,90 @@
-# Mohiul Islam's Portfolio
+<div align="center">
+<a href="https://www.google.com/search?q=https://mohiulislam.netlify.app/">
+<img src="https://www.google.com/search?q=https://rishavanand.github.io/static/images/greetings.gif" alt="Hello there" width="400" />
+</a>
+</div>
 
-## About Me
+<div align="center">
+<h1>
+Md. Mohiul Islam
+</h1>
+<strong>Full-Stack Web Developer (MERN | Laravel)</strong>
+</div>
 
-I'm a Full Stack Web Developer with expertise in JavaScript and PHP, specializing in frameworks like Laravel, React, Next.js, Nest.js, and Electron.js. I focus on building efficient, scalable web and desktop applications while adhering to high ethical standards, ensuring all projects align with halal principles.
+<br>
 
-## Skills
+<div align="center">
+<a href="https://www.google.com/search?q=https://mohiulislam.netlify.app/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dionic%26logoColor%3Dwhite" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/mohiul-islam-dev/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+<a href="https://wa.me/8801611969800" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="WhatsApp">
+</a>
+<a href="mailto:mohiulislam900@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+</div>
 
-- **Programming Languages**: PHP, JavaScript, TypeScript (OOP Knowledge)
-- **Backend Frameworks & Technologies**: Laravel, Express.js, Nest.js, RESTful API Design, MongoDB, SQL Databases, Blade, Livewire, Payment Gateway Integration
-- **Frontend Frameworks & Libraries**: React, Next.js, React Router DOM, Livewire, HTML, CSS, Sass, SCSS
-- **Desktop & Cross-Platform Frameworks**: Electron.js
-- **State Management & Data Fetching**: Zustand, Recoil, Context API, Redux Toolkit, React Query
-- **UI Components & Styling**: Tailwind, Bootstrap, ShadCDN, MUI, NextUI, Ant Design, Rechart
-- **Form Handling & Validation**: React Hook Form, Formik, Yup, ZOD, Joy
-- **Development Tools & Platforms**: Git, GitHub, Docker, Postman, Swagger, Webpack, Vite, Notion
+📖 About Me
 
-## Projects
+I'm a passionate Full-Stack Web Developer from Bangladesh, specializing in the MERN stack and PHP (Laravel). I love turning ideas into scalable, real-world applications. My focus is on strategic planning and innovative problem-solving to deliver high-quality, impactful results.
 
-### Exam Taker App
+As a Muslim, I adhere to halal principles and am committed to working on ethical projects that align with my values. I avoid projects involving gambling, alcohol, usury, betting, or MLM.
 
-- **Duration**: 6 months
-- **Tech Stack**: Laravel, React, MySQL
-- **Description**: Developed an exam management platform with features like admin login, question bank management, and dynamic question creation (MCQ, creative, and normal types). Supports paid model tests, student registration, exam participation, and result viewing with merit rankings. Implemented secure APIs for efficient exam and admin functionalities.
-- **Panels**: Student Panel, Admin Panel
+🔭 I’m currently working on a Dolil Making Desktop App using Electron.js.
 
-### Dolil Making Desktop App
+🌱 I’m always learning and exploring new technologies.
 
-- **Status**: Recent
-- **Tech Stack**: Electron.js, React, MUI, React Hook Form, SQLite
-- **Description**: Built a desktop application for sub-registry offices to streamline Dolil (deed) creation. Features a dynamic form system using React Hook Form and MUI, generating well-formatted PDF documents. Includes payment API integration for processing and verifying payments, enhancing workflow efficiency.
-- **Online Version**: [dw.dolil.com](https://dw.dolil.com) (for review, not developed by me)
+👯 I’m looking to collaborate on open-source projects.
 
-### OTA Air Ticket Selling Platform
+📫 How to reach me: mohiulislam900@gmail.com
 
-- **Role**: Front-end Developer
-- **Duration**: 1 year
-- **Tech Stack**: React
-- **Description**: Worked as a front-end developer in a remote team, implementing user and admin panels using React. Connected back-end APIs and translated requirements into innovative features. The platform operates successfully in three countries.
+🛠️ My Tech Stack
 
-### Chat App
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,js,ts,react,nextjs,nodejs,express,nest,electron,mongodb,mysql,sqlite,html,css,sass,tailwind,bootstrap,mui,vite,git,github,docker,postman,figma%26perline%3D12" />
+</a>
+</p>
 
-- **Tech Stack**: React, Nest.js, Socket.io
-- **Description**: Developed a chat application where users can create accounts, add buddies by email, and chat in real-time using Socket.io for seamless communication.
+🚀 My Featured Projects
 
-## Contact
+Project
 
-- **Email**: mohiulislam900@gmail.com
-- **Phone**: +8801611969800
-- **Address**: Jhikargacha, Jessore, Khulna, Bangladesh
-- **LinkedIn**: [Mohiul Islam](https://linkedin.com/in/mohiulislam)
+Description
 
-## Ethical Standards
+Live Demo / Repo
 
-I adhere to high ethical standards, ensuring all projects align with halal principles and avoiding involvement in activities related to gambling, betting, alcohol, usury, and MLM schemes.
+Exam Management Platform
+
+A secure platform for creating and managing exams with student registration and ranking.
+
+Live Site
+
+Dolil Making App
+
+A desktop app for generating professional deed (Dolil) PDFs with bKash payment integration.
+
+Demo
+
+Real-Time Chat App
+
+A full-featured chat application with real-time messaging using Socket.io.
+
+GitHub Repo
+
+OTA Air Ticket Platform
+
+User and admin panels for an international air ticketing platform.
+
+User Panel
+
+📊 My GitHub Stats
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmohiulislam-dev%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Mohiul's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmohiulislam-dev%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
+</p>
